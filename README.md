@@ -10,7 +10,7 @@ Date: 05-08-2025
 ## How to use
 
 1. Install dependencies: pip install -r requirements.txt
-2. Open the Jupyter Notebook: jupyter notebook notebooks/H2O_RF_predictor.ipynb
+2. Open the Jupyter Notebook: jupyter notebook H2O_RF_predictor.ipynb
 3. Run all cells sequentially.
 
 ## Data
